@@ -40,7 +40,7 @@ else {
    
     if(n%2 === 1)
     {
-        return n 
+        return 1;
     }
     else {
     return 2;
